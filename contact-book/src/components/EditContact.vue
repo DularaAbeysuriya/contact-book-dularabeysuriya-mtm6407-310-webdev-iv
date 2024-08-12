@@ -1,5 +1,4 @@
 <!-- EditContact.vue -->
-<!-- EditContact.vue -->
 <template>
     <div class="edit-contact bg-gray-100 py-8">
       <div class="container mx-auto">

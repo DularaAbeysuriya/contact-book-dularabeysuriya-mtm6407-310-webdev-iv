@@ -1,5 +1,4 @@
 <!-- ContactDetails.vue -->
-<!-- ContactDetails.vue -->
 <template>
     <div class="contact-details bg-gray-100 py-8">
       <div class="container mx-auto">
